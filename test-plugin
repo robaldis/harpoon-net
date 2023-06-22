@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+
+nvim --cmd "set rtp+=./" lua/harpoon-net/init.lua
